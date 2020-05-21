@@ -1,0 +1,14 @@
+{
+  "name": "LambdaExample",
+  "description": "a quick example of an lambda with an aws driven pipeline",
+  "version": "1.0.0",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/shaefer/lambda_example"
+    }
+  ],
+  "dependencies": {
+    "moment": "^2.26.0"
+  }
+}
